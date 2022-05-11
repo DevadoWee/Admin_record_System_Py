@@ -1,5 +1,4 @@
 #DAVID WEE MING JUNN
-#TP062496
 
 def Login():
   print ("Please write down your Status.(Admin/Student)")
