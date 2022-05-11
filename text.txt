@@ -1,0 +1,63 @@
+Admin_Details
+Devado,AD7839,Adminhah,
+dave,AD8657,Adminonly,
+
+Coach_Category
+Name,ID,Password,Pay/hr,Phone No,Sport Centre,Sport Name,Rating,Address,Date Joined,Date Left,
+
+Coach_Details
+Sury,CK3653,crickey,RM250,0228845693,Strat,Cricket,4.0,Taman salt,3/4/2019,N/A,
+Eugene,SW4365,coachy,RM150,0238592364,Tebrau,Swimming,4.3,Taman Sutera,10/9/2020,N/A,
+Jack,TT1940,Baller,RM200,0193889409,Klang,Table Tennis,4.35,Taman Klang,5/1/2020,N/A,
+Masayoshi,AR8490,sweet,RM200,0119937740,Tebrau,Archery,4.5,Taman Sutera,12/4/2020,N/A,
+Sykkuno,SW4478,simp,RM250,0118399914,Strat,Swimming,4.21,Taman Sing,1/12/2020,N/A,
+Valkyrae,AR9580,shooter,RM270,0123948857,Klang,Archery,N/A,Taman Putera,10/3/2020,N/A,
+Pria,TN2235,comein,RM270,0039485996,Strat,Tennis,N/A,Taman flower,10/10/2020,N/A,
+Suria,TN2235,goout,RM230,0394005968,ewf,wef,wef,wef,ewf,ewf,
+
+Student_Category
+Student Name,ID,Password,Phone No,Sport Centre,Date Joined,Date Left,Emergency No,Code,Coach Rating,
+
+Student_Details
+Jacob,SW1820,itsgotime,0473759604,Tebrau,2/4/2020,N/A,0490594438,TUSWMK1,4.3,
+Jane,CK2203,mahobby,0924770039,Strat,2/9/2020,N/A,0113940599,STCKSY1,4.0,
+Brendon,SW1903,comein,1129489938,Strat,3/10/2020,N/A,0118398847,STSWSO2,4.8,
+Aaron,TT2930,Aerofly,0129384450,Klang,12/5/2019,N/A,0168849504,KGTTJK1,4.35,
+Brian,SW2243,welcome,0139984758,Strat,10/6/2020,N/A,0119487756,STSWSO1,3.63,
+Jodi,AR1102,candy,0290034780,Tebrau,2/11/2020,N/A,0291192930,TUARMI1,4.5,
+
+Sport_Category
+Sport Name,ID,Sport Fee,
+
+Sport_Details
+Swimming,SW,RM70,
+Badminton,BT,RM70,
+Football,FB,RM50,
+Archery,AR,RM90,
+Gymnastic,GM,RM120,
+Volleyball,VB,RM80,
+Basketball,BB,RM55,
+Cricket,CK,RM70,
+Tennis,TN,RM90,
+Table Tennis,TT,RM80,
+
+Sport_Table
+Sport Centre,Sport Name,Start Time,End Time,Coach Name,Code,Day,
+
+Sport_Schedule
+Klang,Table Tennis,08:00,09:30,Jack,KGTTJK1,Monday,
+Strat,Swimming,08:00,09:30,Sykkuno,STSWSO1,Monday,
+Tebrau,Swimming,08:30,10:30,Mark,TUSWMK1,Wednesday,
+Tebrau,Archery,09:00,10:30,Masayoshi,TUARMI1,Tuesday,
+Strat,Swimming,10:00,12:00,Sykkuno,STSWSO2,Monday,
+Strat,Tennis,13:30,15:30,Sury,STCKSY1,Monday,
+Strat,Tennis,13:30,15:30,Sury,STCKSY2,Wednesday,
+
+Feedback
+Mark,He's definitely marking my future.,4.3,SW1820,
+Sury,She's very patient.,4.0,CK2203,
+Sykkuno,Simping for him!!!,4.8,SW1903,
+Jack,He makes cricket fun.,4.35,TT2930,
+Sykkuno,He's a good coach!,3.63,SW2243,
+Masayoshi,Best ever!,4.5,AR1102,
+
