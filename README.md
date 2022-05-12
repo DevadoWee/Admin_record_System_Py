@@ -1,4 +1,5 @@
 # Admin_record_System_Py
+Administrator managing data of a certain centre.
 
 Summary:
 Admin ID, and password
@@ -8,5 +9,3 @@ Admin ID, and password
 Command example:
 Sort Display Coach Data = 10 + 3,
 Command = 13
-
-Administrator managing data of a certain centre.
